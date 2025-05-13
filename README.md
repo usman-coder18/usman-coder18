@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-coder18&label=Profile%20views&color=0e75b6&style=flat" alt="usman-coder18" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://usman-portfolio1.vercel.app/](https://usman-portfolio1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://usmanportfolio1.vercel.app/](https://usmanportfolio1.vercel.app/)
 
 - 📫 How to reach me **usmanrafique078@gmail.com**
 
